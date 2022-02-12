@@ -1,0 +1,7 @@
+{
+  "WATCH": "CMG",
+  "DELAY": "1",
+  "MODE": "STOCK",
+  "IMPATIENCE_FACTOR": "12",
+  "RAGE_FACTOR": "30"
+}
