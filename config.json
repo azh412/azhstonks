@@ -2,6 +2,6 @@
   "WATCH": "CMG",
   "DELAY": "1",
   "MODE": "STOCK",
-  "IMPATIENCE_FACTOR": "12",
-  "RAGE_FACTOR": "30"
+  "IMPATIENCE_FACTOR": "60",
+  "RAGE_FACTOR": "300"
 }
