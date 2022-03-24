@@ -1,4 +1,4 @@
-# azhstonks
+# 📈 azhstonks
 
 A theoretical, greedy algorithm that can trade a certain cryptocurrency or stock.
 
