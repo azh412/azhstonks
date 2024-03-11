@@ -4,6 +4,8 @@ A theoretical, greedy algorithm that can trade a certain cryptocurrency or stock
 
 This has also been tested in the real world, and with a few tweaks, the proof of concept worked.
 
+However, due to slippage and other market factors, this kind of algorithm won't work very well in the real world.
+
 **THIS PROGRAM IS FOR THEORETICAL PURPOSES ONLY.**
 **NOTE: IF ATTEMPTING TO USE THIS IN THE REAL WORLD - YOU NEED TO MAKE SOME TWEAKS - YOU WILL NOT HOLD ME RESPONSIBLE FOR ANY FINANCIAL LOSS
 
